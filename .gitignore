@@ -1,0 +1,22 @@
+# C# / Visual Studio
+bin/
+obj/
+.vs/
+*.pdb
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Secrets
+.env.DS_Store
