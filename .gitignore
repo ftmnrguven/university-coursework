@@ -20,3 +20,5 @@ node_modules/
 
 # Secrets
 .env.DS_Store
+.idea/
+packages/
