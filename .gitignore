@@ -5,6 +5,7 @@ obj/
 *.pdb
 *.user
 *.suo
+packages/
 
 # macOS
 .DS_Store
@@ -15,10 +16,11 @@ __pycache__/
 venv/
 .venv/
 
+# JetBrains / IntelliJ
+.idea/
+
 # Node
 node_modules/
 
 # Secrets
-.env.DS_Store
-.idea/
-packages/
+.env
