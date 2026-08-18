@@ -9,8 +9,8 @@ A collection of my university coursework, assignments, labs, practice exercises,
 * **C Programming** — Fundamentals, pointers, memory management, structs, and programming exercises
 * **Object-Oriented Programming with Java** — Classes, objects, inheritance, encapsulation, and OOP exercises
 * **Data Science with Python** — Python, NumPy, Pandas, data analysis, and Jupyter Notebook exercises
-* **Introduction to Machine Learning** — Machine learning fundamentals and practical exercises
-* **Internet-Based Programming** — Web programming coursework and exercises
+* **Machine Learning** — Machine learning fundamentals and practical exercises
+* **Web Programming** — Web programming coursework and exercises
 * **Visual Programming with C#** — Windows Forms, database applications, GUI development, and course projects
 * **Flowgorithm** — Algorithm design and flowchart-based programming exercises
 
@@ -26,8 +26,8 @@ A collection of my university coursework, assignments, labs, practice exercises,
 ├── data-science-python/
 ├── data-structures/
 ├── flowgorithm/
-├── internet-based-programming/
-├── introduction-to-machine-learning/
+├── web-programming/
+├── machine-learning/
 ├── oop-java/
 ├── programming-c/
 └── visual-csharp/
